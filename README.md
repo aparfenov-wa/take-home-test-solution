@@ -1,6 +1,9 @@
 # take-home-test-solution
 A solution project to https://github.com/dfeinberg-rbi/take-home-test
 
+## Prerequisites
+python 3.8.18
+
 ## Intalling
 Run command to install all necessary packages using [requirements.txt](requirements.txt) file
 ```
